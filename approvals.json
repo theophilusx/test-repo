@@ -1,0 +1,17 @@
+{
+ "name": "Change Approvals",
+ "version": "1.0.0",
+ "type": [
+  "any"
+ ],
+ "approvers": [
+  {
+   "name": "Johan Boshoff",
+   "email": "jboshof2@une.edu.au"
+  },
+  {
+   "name": "Tim Cross",
+   "email": "tcross8@une.edu.au"
+  }
+ ]
+}
