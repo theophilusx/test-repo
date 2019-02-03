@@ -1,5 +1,28 @@
 {
  "name": "Change Plans",
  "version": "1.0.0",
- "plans": []
+ "plans": [
+  {
+   "uuid": "vepGPhb9FHavGWZnAndE46",
+   "name": "Test Plan",
+   "description": "A first test plan",
+   "createdDate": "2019-02-03 10:19:01",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-03 10:19:01",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Test-Plan.sql",
+   "verify": "verify/Test-Plan.sql",
+   "rollback": "rollback/Test-Plan.sql"
+  }
+ ]
 }
