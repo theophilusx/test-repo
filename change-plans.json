@@ -30,6 +30,28 @@
    "change": "changes/Test-Plan.sql",
    "verify": "verify/Test-Plan.sql",
    "rollback": "rollback/Test-Plan.sql"
+  },
+  {
+   "uuid": "sNDfU6844dV6m9ANScyqSW",
+   "name": "Bad Plan",
+   "description": "A bad plan for rejection",
+   "createdDate": "2019-02-06 18:59:52",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-06 18:59:52",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Bad-Plan.sql",
+   "verify": "verify/Bad-Plan.sql",
+   "rollback": "rollback/Bad-Plan.sql"
   }
  ]
 }
