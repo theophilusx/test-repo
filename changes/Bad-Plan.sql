@@ -22,6 +22,6 @@ COMMIT;
 -- - Fails to use existing functions (re-invents the wheel)
 -- - Is large enough it requires a valid verification and rollback script
 -- 
--- moved from Rejected to Development for re-working by function () {
-  return this.get("user").name;
-} on 2019-02-07 15:49:45
+-- moved from Rejected to Development for re-working by Tim Cross on 2019-02-07 15:49:45
+
+
