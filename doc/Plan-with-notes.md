@@ -24,3 +24,13 @@ In order for this change to be successfully promoted, you must ensure to do the 
 
 If there are any errors, exclaim _bugger_, turn off your computer and go home!
 
+
+## Rejection Notice
+
+- 2019-02-08 16:08:01
+- Tim Cross <tcross8@une.edu.au>
+
+------
+
+This is just a very silly change, so it is being rejected :thumbsdown:
+
