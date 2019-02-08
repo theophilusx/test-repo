@@ -29,7 +29,8 @@
    },
    "change": "changes/Test-Plan.sql",
    "verify": "verify/Test-Plan.sql",
-   "rollback": "rollback/Test-Plan.sql"
+   "rollback": "rollback/Test-Plan.sql",
+   "doc": "doc/Test-Plan.md"
   },
   {
    "uuid": "sNDfU6844dV6m9ANScyqSW",
@@ -58,7 +59,31 @@
    },
    "change": "changes/Bad-Plan.sql",
    "verify": "verify/Bad-Plan.sql",
-   "rollback": "rollback/Bad-Plan.sql"
+   "rollback": "rollback/Bad-Plan.sql",
+   "doc": "doc/Bad-Plan.md"
+  },
+  {
+   "uuid": "oCJkcp9S7ms9fExgbDbZ9o",
+   "name": "Plan with notes",
+   "description": "A test plan which includes notes",
+   "createdDate": "2019-02-08 15:29:37",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-08 15:29:37",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Plan-with-notes.sql",
+   "verify": "verify/Plan-with-notes.sql",
+   "rollback": "rollback/Plan-with-notes.sql",
+   "doc": "doc/Plan-with-notes.md"
   }
  ]
 }
