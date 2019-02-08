@@ -1,6 +1,7 @@
 
 # Plan with notes
 
+|----------|-----------------|
 | **UUID** | Plan with notes |
 | **Created** | 2019-02-08 15:29:37 |
 | **Author** | Tim Cross <tcross8@une.edu.au> |
