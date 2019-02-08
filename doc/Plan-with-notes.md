@@ -1,18 +1,17 @@
 
 # Plan with notes
 
-| --------- | --------------- |
-| **UUID** | Plan with notes |
-| **Created** | 2019-02-08 15:29:37 |
-| **Author** | Tim Cross <tcross8@une.edu.au> |
+- **UUID** Plan with notes 
+- **Created** 2019-02-08 15:29:37 
+- **Author** Tim Cross <tcross8@une.edu.au> 
 
 A test plan which includes notes
 
 
 ## Promote Note
 
-+ 2019-02-08 15:40:22
-+ Tim Cross <tcross8@une.edu.au>
+- 2019-02-08 15:40:23
+- Tim Cross <tcross8@une.edu.au>
 
 This is a first test note.
 
