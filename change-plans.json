@@ -5,6 +5,7 @@
   {
    "uuid": "vepGPhb9FHavGWZnAndE46",
    "name": "Test Plan",
+   "version": "0.0.1",
    "description": "A first test plan",
    "createdDate": "2019-02-03 10:19:01",
    "author": "Tim Cross",
@@ -35,6 +36,7 @@
   {
    "uuid": "sNDfU6844dV6m9ANScyqSW",
    "name": "Bad Plan",
+   "version": "0.0.1",
    "description": "A bad plan for rejection",
    "createdDate": "2019-02-06 18:59:52",
    "author": "Tim Cross",
@@ -65,6 +67,7 @@
   {
    "uuid": "oCJkcp9S7ms9fExgbDbZ9o",
    "name": "Plan with notes",
+   "version": "0.0.1",
    "description": "A test plan which includes notes",
    "createdDate": "2019-02-08 15:29:37",
    "author": "Tim Cross",
@@ -84,6 +87,29 @@
    "verify": "verify/Plan-with-notes.sql",
    "rollback": "rollback/Plan-with-notes.sql",
    "doc": "doc/Plan-with-notes.md"
+  },
+  {
+   "uuid": "sgwoVg8T9to729rRLeYPML",
+   "name": "Simple Test",
+   "description": "A simple test plan",
+   "createdDate": "2019-02-10 14:41:33",
+   "author": "Tim Cross",
+   "authorEmail": "tcross@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-10 14:41:33",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Simple-Test.sql",
+   "verify": "verify/Simple-Test.sql",
+   "rollback": "rollback/Simple-Test.sql",
+   "doc": "doc/Simple-Test.md"
   }
  ]
 }
