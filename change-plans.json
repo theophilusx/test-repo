@@ -91,18 +91,26 @@
   {
    "uuid": "sgwoVg8T9to729rRLeYPML",
    "name": "Simple Test",
+   "version": "0.0.1",
    "description": "A simple test plan",
    "createdDate": "2019-02-10 14:41:33",
    "author": "Tim Cross",
    "authorEmail": "tcross@une.edu.au",
-   "planType": "Pending",
+   "planType": "Approved",
    "approvals": {
     "current": {
-     "approved": false,
-     "approvedDate": "2019-02-10 14:41:33",
-     "approvedSha": "",
+     "approved": true,
+     "approvedDate": "2019-02-11 12:49:28",
+     "approvedSha": "9aaf39381e4116a96e9cde2ef3b3827ad8452b4c",
      "releaseTag": "0.0.0",
-     "approvers": []
+     "approvers": [
+      {
+       "approvedDate": "2019-02-11 12:49:28",
+       "author": "Tim Cross",
+       "email": "tcross8@une.edu.au",
+       "versionSha": "9aaf39381e4116a96e9cde2ef3b3827ad8452b4c"
+      }
+     ]
     },
     "history": []
    },
