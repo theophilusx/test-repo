@@ -17,7 +17,14 @@
      "approvedDate": "2019-02-11 15:57:05",
      "approvedSha": "",
      "releaseTag": "0.0.0",
-     "approvers": []
+     "approvers": [
+      {
+       "approvedDate": "2019-02-11 16:25:30",
+       "author": "Tim Cross",
+       "email": "tcross8@une.edu.au",
+       "versionSha": "64dba8ec3cb08a77b5a085acfe274fa15e2cb8ee"
+      }
+     ]
     },
     "history": []
    },
