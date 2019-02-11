@@ -32,6 +32,30 @@
    "verify": "verify/Create-NPMJS-Schema.sql",
    "rollback": "rollback/Create-NPMJS-Schema.sql",
    "doc": "doc/Create-NPMJS-Schema.md"
+  },
+  {
+   "uuid": "fAWqUTaoXhHNCBDCnPoBtq",
+   "name": "Simple Function",
+   "version": "1.0.0",
+   "description": "A simple function for demo purposes",
+   "createdDate": "2019-02-12 10:48:50",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-12 10:48:50",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Simple-Function.sql",
+   "verify": "verify/Simple-Function.sql",
+   "rollback": "rollback/Simple-Function.sql",
+   "doc": "doc/Simple-Function.md"
   }
  ]
 }
