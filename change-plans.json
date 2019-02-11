@@ -1,5 +1,29 @@
 {
  "name": "Change Plans",
  "version": "1.0.0",
- "plans": []
+ "plans": [
+  {
+   "uuid": "qAhkvkiBYSKZTahn4jDvmH",
+   "name": "NPM Registry Schema",
+   "description": "Create a schema for the NPM module registry",
+   "createdDate": "2019-02-11 15:00:14",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-11 15:00:14",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/NPM-Registry-Schema.sql",
+   "verify": "verify/NPM-Registry-Schema.sql",
+   "rollback": "rollback/NPM-Registry-Schema.sql",
+   "doc": "doc/NPM-Registry-Schema.md"
+  }
+ ]
 }
