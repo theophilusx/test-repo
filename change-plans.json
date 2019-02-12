@@ -102,6 +102,30 @@
    "verify": "verify/Simple-Table.sql",
    "rollback": "rollback/Simple-Table.sql",
    "doc": "doc/Simple-Table.md"
+  },
+  {
+   "uuid": "raB9WSj85JXRctPPH7HCzx",
+   "name": "Create Schema",
+   "version": "1.0.0",
+   "description": "Create the npmjs schema",
+   "createdDate": "2019-02-12 12:34:25",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-12 12:34:25",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Create-Schema.sql",
+   "verify": "verify/Create-Schema.sql",
+   "rollback": "rollback/Create-Schema.sql",
+   "doc": "doc/Create-Schema.md"
   }
  ]
 }
