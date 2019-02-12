@@ -63,6 +63,30 @@
    "verify": "verify/Test-Function.sql",
    "rollback": "rollback/Test-Function.sql",
    "doc": "doc/Test-Function.md"
+  },
+  {
+   "uuid": "smyRQ7w2VqYWxEZeSsmKGn",
+   "name": "Test Table",
+   "version": "1.0.0",
+   "description": "A simple test table",
+   "createdDate": "2019-02-12 14:18:08",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-12 14:18:08",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Test-Table.sql",
+   "verify": "verify/Test-Table.sql",
+   "rollback": "rollback/Test-Table.sql",
+   "doc": "doc/Test-Table.md"
   }
  ]
 }
