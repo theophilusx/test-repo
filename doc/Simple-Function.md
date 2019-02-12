@@ -34,3 +34,12 @@ A simple function for demo purposes
 - Tim Cross <tcross8@une.edu.au>
 -----
 Plan Simple Function moved from Approved to Development for re-working
+
+## Note
+
+- 2019-02-12 11:06:48
+- Tim Cross <tcross8@une.edu.au>
+
+{answer.note}
+
+------
