@@ -1,5 +1,30 @@
 {
  "name": "Change Plans",
  "version": "1.0.0",
- "plans": []
+ "plans": [
+  {
+   "uuid": "9JccUJ8x6zjkqW4DqX2j4u",
+   "name": "Create Schema",
+   "version": "1.0.0",
+   "description": "Create the npmjs schema",
+   "createdDate": "2019-02-12 12:58:16",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-12 12:58:16",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Create-Schema.sql",
+   "verify": "verify/Create-Schema.sql",
+   "rollback": "rollback/Create-Schema.sql",
+   "doc": "doc/Create-Schema.md"
+  }
+ ]
 }
