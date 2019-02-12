@@ -78,6 +78,30 @@
    "verify": "verify/Simple-Function.sql",
    "rollback": "rollback/Simple-Function.sql",
    "doc": "doc/Simple-Function.md"
+  },
+  {
+   "uuid": "jazAquK11xcruERMWgV1Yq",
+   "name": "Simple Table",
+   "version": "1.0.0",
+   "description": "Create a basic table for demo purposes",
+   "createdDate": "2019-02-12 11:55:52",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-12 11:55:52",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Simple-Table.sql",
+   "verify": "verify/Simple-Table.sql",
+   "rollback": "rollback/Simple-Table.sql",
+   "doc": "doc/Simple-Table.md"
   }
  ]
 }
