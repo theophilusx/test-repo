@@ -36,12 +36,12 @@
   {
    "uuid": "gzb1umcW4DJ72v38u4u6DL",
    "name": "Test Function",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "A simple test function for demonstration purposes",
    "createdDate": "2019-02-12 13:07:36",
    "author": "Tim Cross",
    "authorEmail": "tcross8@une.edu.au",
-   "planType": "Development",
+   "planType": "Pending",
    "approvals": {
     "current": {
      "approved": false,

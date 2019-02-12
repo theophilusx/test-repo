@@ -12,7 +12,7 @@ CREATE OR REPLACE FUNCTION npmjs.myfunc ()
 DECLARE
   a_value VARCHAR(100);
 BEGIN
-  a_value := 'The date IS ' || TO_CHAR(CURRENT_TIMESTAMP, 'YYYY/MM/DD');
+  a_value := 'The date AND TIME  ' || TO_CHAR(CURRENT_TIMESTAMP, 'YYYY/MM/DD HH:MM:SS');
   RETURN a_value;
 END;
 $$
