@@ -41,23 +41,31 @@
    "createdDate": "2019-02-12 10:48:50",
    "author": "Tim Cross",
    "authorEmail": "tcross8@une.edu.au",
-   "planType": "Approved",
+   "planType": "Development",
    "approvals": {
     "current": {
-     "approved": true,
-     "approvedDate": "2019-02-12 11:01:12",
-     "approvedSha": "5443e535d0955c58df7049dbb397e63bb514a4b0",
+     "approved": false,
+     "approvedDate": "2019-02-12 11:04:15",
+     "approvedSha": "",
      "releaseTag": "0.0.0",
-     "approvers": [
-      {
-       "approvedDate": "2019-02-12 11:01:12",
-       "author": "Tim Cross",
-       "email": "tcross8@une.edu.au",
-       "versionSha": "5443e535d0955c58df7049dbb397e63bb514a4b0"
-      }
-     ]
+     "approvers": []
     },
-    "history": []
+    "history": [
+     {
+      "approved": true,
+      "approvedDate": "2019-02-12 11:01:12",
+      "approvedSha": "5443e535d0955c58df7049dbb397e63bb514a4b0",
+      "releaseTag": "0.0.0",
+      "approvers": [
+       {
+        "approvedDate": "2019-02-12 11:01:12",
+        "author": "Tim Cross",
+        "email": "tcross8@une.edu.au",
+        "versionSha": "5443e535d0955c58df7049dbb397e63bb514a4b0"
+       }
+      ]
+     }
+    ]
    },
    "change": "changes/Simple-Function.sql",
    "verify": "verify/Simple-Function.sql",

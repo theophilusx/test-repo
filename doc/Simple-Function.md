@@ -27,3 +27,10 @@ A simple function for demo purposes
 {answer.note}
 
 ------
+
+## Re-work Plan
+
+- 2019-02-12 11:04:15
+- Tim Cross <tcross8@une.edu.au>
+-----
+Plan Simple Function moved from Approved to Development for re-working
