@@ -29,3 +29,17 @@ This is a simple promote note
 
 
 ------
+
+## Rejection Notice
+
+- 2019-02-12 12:07:55
+- Tim Cross <tcross8@une.edu.au>
+
+This plan rejected because
+
+- It failed to meet minimum testing requirements
+- Did not have sufficient justification
+- Was just really dumpb :thumbsdown:
+
+
+------
