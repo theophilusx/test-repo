@@ -1,7 +1,7 @@
 {
  "name": "Change Approval",
  "version": "1.0.0",
- "approvalType": "any",
+ "approvalType": "none",
  "approvers": [
   {
    "name": "Tim Cross",
