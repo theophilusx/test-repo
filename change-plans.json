@@ -82,12 +82,12 @@
   {
    "uuid": "smyRQ7w2VqYWxEZeSsmKGn",
    "name": "Test Table",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "A simple test table",
    "createdDate": "2019-02-12 14:18:08",
    "author": "Tim Cross",
    "authorEmail": "tcross8@une.edu.au",
-   "planType": "Development",
+   "planType": "Pending",
    "approvals": {
     "current": {
      "approved": false,

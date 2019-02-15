@@ -8,7 +8,7 @@ BEGIN;
 
 CREATE TABLE IF NOT EXISTS my_tab (
     id serial,
-    a_name VARCHAR DEFAULT 'fred'
+    a_name VARCHAR(10) DEFAULT 'default'
 );
 
 COMMIT;
