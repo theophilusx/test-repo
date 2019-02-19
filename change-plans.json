@@ -109,6 +109,54 @@
    "verify": "verify/Test-Table.sql",
    "rollback": "rollback/Test-Table.sql",
    "doc": "doc/Test-Table.md"
+  },
+  {
+   "uuid": "pZekuYviJM7NDnGDqCFoQA",
+   "name": "Yet Another Example",
+   "version": "0.0.1",
+   "description": "Just an example test plan",
+   "createdDate": "2019-02-15 15:01:49",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Development",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-15 15:01:49",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Yet-Another-Example.sql",
+   "verify": "verify/Yet-Another-Example.sql",
+   "rollback": "rollback/Yet-Another-Example.sql",
+   "doc": "doc/Yet-Another-Example.md"
+  },
+  {
+   "uuid": "iLbADrHp6iGZQF9AxyzKM9",
+   "name": "Test for Nick",
+   "version": "1.9.9",
+   "description": "some des of what does",
+   "createdDate": "2019-02-19 14:33:17",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-02-19 14:33:17",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/Test-for-Nick.sql",
+   "verify": "verify/Test-for-Nick.sql",
+   "rollback": "rollback/Test-for-Nick.sql",
+   "doc": "doc/Test-for-Nick.md"
   }
  ]
 }
