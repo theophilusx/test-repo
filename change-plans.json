@@ -118,14 +118,21 @@
    "createdDate": "2019-02-15 15:01:49",
    "author": "Tim Cross",
    "authorEmail": "tcross8@une.edu.au",
-   "planType": "Pending",
+   "planType": "Approved",
    "approvals": {
     "current": {
-     "approved": false,
-     "approvedDate": "2019-02-15 15:01:49",
-     "approvedSha": "",
+     "approved": true,
+     "approvedDate": "2019-02-19 16:05:34",
+     "approvedSha": "72c02afd3a789fea6de917bbada9197386b19e64",
      "releaseTag": "0.0.0",
-     "approvers": []
+     "approvers": [
+      {
+       "approvedDate": "2019-02-19 16:05:34",
+       "author": "Tim Cross",
+       "email": "tcross8@une.edu.au",
+       "versionSha": "72c02afd3a789fea6de917bbada9197386b19e64"
+      }
+     ]
     },
     "history": []
    },
