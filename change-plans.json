@@ -113,12 +113,12 @@
   {
    "uuid": "pZekuYviJM7NDnGDqCFoQA",
    "name": "Yet Another Example",
-   "version": "0.0.1",
+   "version": "1.0.0",
    "description": "Just an example test plan",
    "createdDate": "2019-02-15 15:01:49",
    "author": "Tim Cross",
    "authorEmail": "tcross8@une.edu.au",
-   "planType": "Development",
+   "planType": "Pending",
    "approvals": {
     "current": {
      "approved": false,
