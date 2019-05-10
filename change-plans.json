@@ -171,6 +171,30 @@
    "verify": "verify/Test-for-Nick.sql",
    "rollback": "rollback/Test-for-Nick.sql",
    "doc": "doc/Test-for-Nick.md"
+  },
+  {
+   "uuid": "iwNueER1gpDMsWLghiNxea",
+   "name": "A test plan",
+   "version": "1.0.0",
+   "description": "a test",
+   "createdDate": "2019-05-11 01:50:57",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-05-11 01:48:49",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/A-test-plan.sql",
+   "verify": "verify/A-test-plan.sql",
+   "rollback": "rollback/A-test-plan.sql",
+   "doc": "doc/A-test-plan.md"
   }
  ]
 }
