@@ -202,6 +202,30 @@
    "verify": "verify/A-test-plan.sql",
    "rollback": "rollback/A-test-plan.sql",
    "doc": "doc/A-test-plan.md"
+  },
+  {
+   "uuid": "vqiL9jCgqhTxGuin7tVuB5",
+   "name": "A very new plan",
+   "version": "1.0.0",
+   "description": "More testing",
+   "createdDate": "2019-05-12 13:34:02",
+   "author": "Tim Cross",
+   "authorEmail": "tcross8@une.edu.au",
+   "planType": "Pending",
+   "approvals": {
+    "current": {
+     "approved": false,
+     "approvedDate": "2019-05-12 10:25:56",
+     "approvedSha": "",
+     "releaseTag": "0.0.0",
+     "approvers": []
+    },
+    "history": []
+   },
+   "change": "changes/A-very-new-plan.sql",
+   "verify": "verify/A-very-new-plan.sql",
+   "rollback": "rollback/A-very-new-plan.sql",
+   "doc": "doc/A-very-new-plan.md"
   }
  ]
 }
