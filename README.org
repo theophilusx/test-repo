@@ -5,8 +5,7 @@
 This is just a test repo used for various testing purposes. There is nothing here of
 interest. Please move on!
 
-#+begin_src html
-
+#+begin_export
   <div>
     <div style="
     overflow: auto;
@@ -73,4 +72,4 @@ interest. Please move on!
       });
     </script>
   </div>
-#+end_src
+#+end_export
